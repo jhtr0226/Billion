@@ -1,0 +1,8 @@
+#pxs {
+    border: 1px solid #000;
+}
+
+body {
+    max-width: 750px;
+    margin: 0 auto;
+}
